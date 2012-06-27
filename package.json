@@ -1,0 +1,19 @@
+{
+  "name": "ss-couchbone",
+  "description": "A SocketStream request responder to sync backbone models to CouchDB",
+  "author": "Colin Fallon <couchbone@colinfallon.com>",
+  "version": "0.0.1",
+  "main": "./server/index.js",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/colinf/ss-couchbone.git"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "cradle": "0.6.x"
+  },
+  "devDependencies": {
+  }
+}
