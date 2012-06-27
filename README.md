@@ -6,6 +6,9 @@ The couchbone responder overrides the Backbone.sync method so that all create, r
 
 This is an initial 0.0.x version with the corresponding limited functionality and limited testing. It should be used with caution!
 
+### Example Application
+The best way to get started with ss-couchbone is to take a look at the [example application](https://github.com/colinf/couchbone-todos) which uses ss-couchbone to implement a version of the well known Backbone.js Todos example application with persistence to CouchDB using Socketstream.
+
 ### Try it out
 Clone the repo locally and install it with:
 
