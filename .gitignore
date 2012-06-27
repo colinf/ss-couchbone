@@ -3,3 +3,5 @@ node_modules
 dump.rdb
 npm-debug.log
 *.tgz
+*.sublime-project
+*.sublime-workspace
